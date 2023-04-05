@@ -25,13 +25,13 @@ const music_list = [
         img : 'https://ia802304.us.archive.org/33/items/logo_20210825_20210825_2226/21.jpeg',
         name : 'radio',
         artist : 'main radio',
-        music : 'http://live.mp3quran.net:8006/;.mp3'
+        music : 'http://live.mp3quran.net:8006'
     },
     {
         img : 'https://ia802304.us.archive.org/33/items/logo_20210825_20210825_2226/21.jpeg',
         name : 'radio',
         artist : 'Ahmad AlHawashi',
-        music : 'http://live.mp3quran.net:9928/;'
+        music : 'http://live.mp3quran.net:9928'
     },
     {
         img : 'https://ia802304.us.archive.org/33/items/logo_20210825_20210825_2226/21.jpeg',
